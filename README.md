@@ -1,5 +1,11 @@
 # Static Comp Challenge: Choose Your Own Adventure
 
+fixed scroll design inspired by Woven's website (see below)
+link: https://wovenmagazine.com
+
+Static Comp - Backend MOD 2 - Turing University
+
+
 ## Specification
 
 This static comp challenge will keep you exercising that HTML/CSS muscle. :muscle: You will be asked to recreate the image below by recreating the screenshot using HTML and CSS.
